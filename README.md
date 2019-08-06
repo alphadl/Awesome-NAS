@@ -48,11 +48,14 @@ Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) 
 | [Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf) | AAAI | EA | - |
 | AutoAugment: Learning Augmentation Policies from Data | CVPR | RL | - |
 | Population Based Augmentation: Efficient Learning of Augmentation Policy Schedules | ICML | EA | - |
-
+| [The Evolved Transformer](https://arxiv.org/pdf/1901.11117.pdf) | ICML | EA | [Github](https://github.com/tensorflow/tensor2tensor/blob/master/tensor2tensor/models/evolved_transformer.py) |
+| EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks | ICML | RL | - |
+| [NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635) | ICML | Other | [Github](https://github.com/google-research/nasbench) | 
 
 ### 2018
 |  Title  |   Venue  |   Type   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
+| Towards Automatically-Tuned Deep Neural Networks | BOOK | - | [GitHub](https://github.com/automl/Auto-PyTorch) |
 | [Efficient Architecture Search by Network Transformation](https://arxiv.org/pdf/1707.04873.pdf) | AAAI | RL | [github](https://github.com/han-cai/EAS) |
 | [Learning Transferable Architectures for Scalable Image Recognition](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zoph_Learning_Transferable_Architectures_CVPR_2018_paper.pdf) | CVPR | RL | [github](https://github.com/tensorflow/models/tree/master/research/slim/nets/nasnet) |
 | [N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning](https://openreview.net/forum?id=B1hcZZ-AW) | ICLR | RL | - |
@@ -67,6 +70,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) 
 | [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/pdf/1802.07191.pdf) | NeurIPS | Other | [github](https://github.com/kirthevasank/nasbot) |
 | [Differentiable Neural Network Architecture Search](https://openreview.net/pdf?id=BJ-MRKkwG) | ICLR-W | G | - |
 | [Accelerating Neural Architecture Search using Performance Prediction](https://arxiv.org/abs/1705.10823) | ICLR-W | PD | - |
+
 
 
 ### 2017
@@ -95,7 +99,7 @@ Please feel free to [pull requests](https://github.com/D-X-Y/awesome-NAS/pulls) 
 
 ### arXiv
 - Network Pruning via Transformable Architecture Search [[pdf]](https://arxiv.org/abs/1905.09717)
- - Xuanyi Dong, Yi Yang
+  - Xuanyi Dong, Yi Yang
 - Population Based Training of Neural Networks [[pdf]](https://arxiv.org/abs/1711.09846)
   - Max Jaderberg, Valentin Dalibard, Simon Osindero, Wojciech M. Czarnecki, Jeff Donahue, Ali Razavi, Oriol Vinyals, Tim Green, Iain Dunning, Karen Simonyan, Chrisantha Fernando, Koray Kavukcuoglu. arXiv 1711
 - NSGA-NET: A Multi-Objective Genetic Algorithm for Neural Architecture Search [[pdf]](https://arxiv.org/pdf/1810.03522.pdf)
